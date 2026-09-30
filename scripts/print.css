@@ -22,9 +22,13 @@ li { margin: .15rem 0; }
 .cover p { font-size: 1.1rem; color: #444; }
 .cover .small { font-size: .9rem; color: #777; margin-top: 3rem; }
 /* one-page quick card */
-body.card { font-size: 8.6pt; line-height: 1.35; }
+body.card { font-size: 8.2pt; line-height: 1.3; }
 body.card h1 { font-size: 1.4rem; page-break-before: avoid; margin-bottom: .3rem; }
 body.card p { margin: .25rem 0; }
 body.card table { font-size: 8.4pt; margin: .3rem 0; }
 body.card th, body.card td { padding: 2px 5px; }
 body.card hr { margin: .4rem 0; }
+body.card td { height: 1.35em; }
+body.card li { margin: 0; }
+body.card ul, body.card ol { margin: .2rem 0; }
+body.card h1 + p { margin-bottom: .2rem; }

@@ -40,6 +40,26 @@
 | 9 | [社区：你真正的地堡](zh/09-community.md) | 为什么人比混凝土更重要 |
 | 10 | [在"人类动物园"中生存](zh/10-human-zoo.md) | 在舒适的囚禁中如何保持人性？ |
 | ✅ | [清单](zh/checklists.md) | 72 小时 / 2 周 / 90 天 / 1 年 |
+| 🪪 | [一页速查卡](zh/quick-card.md) | 所有要点浓缩在一张可打印的纸上 |
+
+### 地区专题
+
+| 地区 | 重点 |
+|---|---|
+| 🇨🇳 [中国大陆](zh/regions/china.md) | 高层住宅、人防工程、App 化的日常生活、现金、免执照对讲机 |
+| 🌀 [台风/飓风地区](zh/regions/typhoon.md) | 为什么在洪涝区*绝不能*躲到地下；不靠网络预判风暴 |
+| 🌋 [地震带](zh/regions/earthquake.md) | 抗震掩体、伏地-遮挡-手抓牢、震后 72 小时 |
+
+## 🖨️ 打印出来
+
+电网删不掉纸张。下载、打印，离线保存一份：
+
+| | English | 中文 |
+|---|---|---|
+| 完整指南（PDF） | [AI-Doomsday-Survival-Guide-en.pdf](print/AI-Doomsday-Survival-Guide-en.pdf) | [AI-Doomsday-Survival-Guide-zh.pdf](print/AI-Doomsday-Survival-Guide-zh.pdf) |
+| 一页速查卡（PDF） | [quick-card-en.pdf](print/quick-card-en.pdf) | [quick-card-zh.pdf](print/quick-card-zh.pdf) |
+
+修改内容后重新生成：`python3 scripts/build_pdf.py`（需要 pandoc 和 Chrome/Chromium）。
 
 ## 三条诚实的真相
 

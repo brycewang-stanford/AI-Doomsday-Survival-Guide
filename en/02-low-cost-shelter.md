@@ -104,6 +104,8 @@ Be honest with yourself: this reduces visibility; it doesn't create invisibility
 7. **Permits and law.** Many jurisdictions require permits for below-grade structures. A legal root cellar is far better than an illegal bunker that gets you noticed.
 8. **Two exits, and a way out from the inside.** Never build something you can be trapped in.
 
+> 🌀🌋 **Flood, storm-surge or earthquake zone?** Below-ground shelters carry extra risks there. Read the [Typhoon](regions/typhoon.md) and [Earthquake](regions/earthquake.md) regional guides first. Living in China? See the [Mainland China guide](regions/china.md) for civil air-defence works (人防工程).
+
 ## 2.7 Minimum shelter kit (per person, 2 weeks)
 
 - 56 L water (4 L/day) + filter

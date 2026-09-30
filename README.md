@@ -40,6 +40,26 @@ The goal is not heroics. The goal is to **stay alive, stay free in mind, stay co
 | 9 | [Community: Your Real Bunker](en/09-community.md) | Why the group matters more than the concrete |
 | 10 | [Surviving the Human Zoo](en/10-human-zoo.md) | How do you stay human in comfortable captivity? |
 | ✅ | [Checklists](en/checklists.md) | 72 hours / 2 weeks / 90 days / 1 year |
+| 🪪 | [Quick Reference Card](en/quick-card.md) | Everything essential on one printable page |
+
+### Regional Guides
+
+| Region | Focus |
+|---|---|
+| 🇨🇳 [Mainland China](en/regions/china.md) | High-rise living, civil air-defence works (人防工程), app-gated daily life, cash, licence-free radio |
+| 🌀 [Typhoon & Hurricane Regions](en/regions/typhoon.md) | Why you must *not* go underground in flood zones; analog storm forecasting |
+| 🌋 [Earthquake Zones](en/regions/earthquake.md) | Seismic-safe shelter, Drop-Cover-Hold On, the first 72 hours |
+
+## 🖨️ Print It
+
+The grid can't delete paper. Download, print, and keep a copy offline:
+
+| | English | 中文 |
+|---|---|---|
+| Full guide (PDF) | [AI-Doomsday-Survival-Guide-en.pdf](print/AI-Doomsday-Survival-Guide-en.pdf) | [AI-Doomsday-Survival-Guide-zh.pdf](print/AI-Doomsday-Survival-Guide-zh.pdf) |
+| One-page card (PDF) | [quick-card-en.pdf](print/quick-card-en.pdf) | [quick-card-zh.pdf](print/quick-card-zh.pdf) |
+
+Rebuild after editing: `python3 scripts/build_pdf.py` (needs pandoc + Chrome/Chromium).
 
 ## Three Honest Truths
 
