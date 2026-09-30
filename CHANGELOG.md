@@ -1,5 +1,12 @@
 # Changelog / 更新日志
 
+## 2026-09-30 — News wall & photos / 新闻墙与照片
+
+- README: "The Bunker Files" headline wall (WIRED, The New Yorker, Forbes, The Washington Post, AP, RNZ…) and "Meanwhile, for everyone else" (EU, Sweden, Taiwan, Arup deepfake), with links to every original article / README 新增"地堡档案"新闻墙和"与此同时，普通人这边"，附原文链接
+- Photo gallery with freely licensed images: Vivos xPoint, the Greenbrier congressional bunker, the Diefenbunker, Beijing's Underground City, a FEMA safe room / 使用自由许可照片的地堡图集
+- Chapter 1: the Greenbrier case (1958–1992); Chapter 2: Kearny Air Pump diagram and FEMA safe room; China guide: Beijing Underground City / 第 1、2 章与中国专题配图
+- `assets/CREDITS.md`, `scripts/build_news_wall.py`; PDF build now embeds images / 图片来源说明、新闻墙生成脚本；PDF 现已包含图片
+
 ## 2026-09-30 — Research update / 研究更新
 
 - **New / 新增:** Chapter 11 *Real-World Rehearsals* — the 2025 Iberian blackout, the 2024 CrowdStrike outage, the 2015 Ukraine grid cyberattack, the 2021 Texas storm, the 2021 Zhengzhou floods and the 2024 Arup deepfake fraud / 第 11 章《现实中的预演》

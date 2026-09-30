@@ -39,6 +39,10 @@ Everything else is comfort.
 - **Prepare the room** as your shelter: water, food, bucket toilet, lights, radio, first aid (see [Checklists](checklists.md)).
 - **Free manual:** *Nuclear War Survival Skills* by Cresson Kearny (Oak Ridge National Laboratory, 1979/1987) is in the public domain. It contains tested plans for expedient shelters built by untrained families in 48 hours, and the **Kearny Air Pump** (KAP) — a homemade ventilation device made from wood, plastic sheeting and string. Download it and **print it**.
 
+![Diagram of the Kearny Air Pump in operation](../assets/photos/kearny-air-pump.png)
+
+*The Kearny Air Pump: a hinged frame with plastic-sheet flaps, swung by hand to push fresh air through a shelter. Diagram: Oak Ridge National Laboratory, public domain.*
+
 ### Tier 1 — \$200–\$2,000: Basement retrofit
 
 The best value option for most homeowners.
@@ -67,6 +71,10 @@ A root cellar is a **shelter that pays rent**: it stores food all year, and it i
 - **Corrugated steel pipe** (culvert) shelters: large-diameter pipe buried on its side, commercially fitted with ends, hatch and vents. Round shapes carry soil load well.
 - **Precast concrete** vaults (septic-tank style) installed by a contractor with a crane.
 - These come with engineering, which is exactly what DIY lacks.
+
+![A FEMA mitigation expert opens the hatch of a partially underground residential safe room](../assets/photos/fema-safe-room.jpg)
+
+*A partially underground residential safe room in Moore, Oklahoma, 2013. Photo: FEMA, public domain.*
 
 ## 2.4 The shipping container trap
 

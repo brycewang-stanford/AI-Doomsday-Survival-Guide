@@ -12,6 +12,37 @@
 
 ---
 
+## 📰 地堡档案
+
+<p align="center"><img src="assets/news/bunkers-zh.png" alt="关于富豪末日地堡的新闻标题：扎克伯格夏威夷庄园、Sutskever 的 AGI 地堡、3 亿美元 Aerie 地堡、Greenbrier 国会地堡、Vivos xPoint 诉讼、蒂尔放弃新西兰度假屋" width="900"></p>
+
+阅读原文：[WIRED](https://www.wired.com/story/mark-zuckerberg-inside-hawaii-compound/) · [The Hollywood Reporter](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/mark-zuckerberg-massive-bunker-hawaii-little-shelter-1236092305/) · [The New Yorker](https://www.newyorker.com/magazine/2017/01/30/doomsday-prep-for-the-super-rich) · [Futurism](https://futurism.com/the-byte/openai-scientists-agi-bunker) · [Forbes](https://www.forbes.com/sites/jimdobson/2025/01/13/inside-aerie-the-300-million-doomsday-bunker-with-opulent-suites-and-robotic-staff/) · [华盛顿邮报](https://www.washingtonpost.com/wp-srv/local/daily/july/25/brier1.htm) · [U.S. News / 美联社](https://www.usnews.com/news/best-states/north-dakota/articles/2025-10-23/survival-bunker-renters-sue-owner-of-former-south-dakota-munitions-bunkers-over-lease-amenities) · [RNZ](https://www.rnz.co.nz/news/environment/523397/us-billionaire-peter-thiel-abandons-lake-wanaka-lodge-build)
+
+### 📸 地堡内部
+
+<table>
+<tr>
+<td width="50%"><img src="assets/photos/vivos-xpoint-showroom.jpg" alt="Vivos xPoint 样板地堡内的客厅和厨房"><br><sub><b>Vivos xPoint，美国南达科他州。</b>由前陆军弹药掩体改造成的住所。2025 年，住户把房东告上了法庭。<i>摄影：VigilanteScout，CC BY-SA 4.0</i></sub></td>
+<td width="50%"><img src="assets/photos/greenbrier-false-wall.jpg" alt="酒店走廊里用来遮挡 Greenbrier 地堡防爆门的折叠假墙"><br><sub><b>Greenbrier 度假酒店，美国西弗吉尼亚州。</b>豪华酒店里这面可折叠的"墙"，遮住了美国国会秘密地堡的防爆门，隐藏了 30 年，直到 1992 年才被曝光。<i>摄影：Z22，CC BY-SA 4.0</i></sub></td>
+</tr>
+<tr>
+<td><img src="assets/photos/vivos-xpoint-field.jpg" alt="南达科他草原上一排排覆土混凝土掩体"><br><sub><b>Vivos xPoint。</b>散布在草原上的约 575 座混凝土掩体中的一部分。<i>摄影：VigilanteScout，CC BY-SA 4.0</i></sub></td>
+<td><img src="assets/photos/greenbrier-bunker-entrance.jpg" alt="Greenbrier 地堡厚重的混凝土入口"><br><sub><b>Greenbrier 地堡入口。</b>注意墙体的厚度。<i>摄影：Z22，CC BY-SA 4.0</i></sub></td>
+</tr>
+<tr>
+<td><img src="assets/photos/beijing-air-raid-tunnel.jpg" alt="北京地下城的防空隧道"><br><sub><b>北京地下城。</b>上世纪七十年代挖掘的防空隧道网络，是中国人防工程的历史缩影，见<a href="zh/regions/china.md">中国大陆专题</a>。<i>摄影（1991）：Gary Todd，CC0</i></sub></td>
+<td><img src="assets/photos/fema-safe-room.jpg" alt="FEMA 专家在电视台镜头前打开一个小型地下安全屋的舱门"><br><sub><b>普通人的版本。</b>2013 年，美国俄克拉何马州摩尔市一个半地下式家庭安全屋，正在接受电视台拍摄。预制产品几千美元起，见<a href="zh/02-low-cost-shelter.md">第 2 章</a>。<i>摄影：FEMA，公共领域</i></sub></td>
+</tr>
+</table>
+
+<p align="center"><img src="assets/news/world-zh.png" alt="新闻标题：欧盟敦促储备 72 小时物资、瑞典危机手册、台湾民防手册、奥雅纳 2,500 万美元深度伪造诈骗" width="900"></p>
+
+阅读原文：[CNN（欧盟）](https://www.cnn.com/2025/03/26/europe/european-union-stockpile-member-states-intl-latam) · [The Register](https://www.theregister.com/2024/11/18/sweden_updates_war_guide/) · [Taiwan News](https://www.taiwannews.com.tw/news/6202033) · [CNN（奥雅纳）](https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk)
+
+<sub>标题卡片逐字引用原标题并由本项目重新排版（非网页截图）。图片作者与许可证见 [assets/CREDITS.md](assets/CREDITS.md)。</sub>
+
+---
+
 ## 情景设定
 
 本指南基于一个刻意极端化的威胁模型（见[第 0 章](zh/00-threat-model.md)）：

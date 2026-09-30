@@ -22,6 +22,12 @@
 
 ### 2.1 人防工程
 
+| | |
+|---|---|
+| ![Beijing Underground City entrance](../../assets/photos/beijing-underground-city-entrance.jpg) | ![Beijing air-raid tunnel](../../assets/photos/beijing-air-raid-tunnel.jpg) |
+
+*北京地下城：上世纪七十年代挖掘的防空隧道网络，是中国人防体系的早期篇章。左：入口（Well-rested，CC BY-SA 3.0）；右：隧道，1991 年（Gary Todd，CC0）。*
+
 - 根据《中华人民共和国人民防空法》（1996 年通过，2009 年修正），许多新建住宅项目须按规定修建**防空地下室**。
 - 和平时期，大多数被用作**地下车库或仓储**（"平战结合"）。你很可能在里面停过车而不自知。
 - 紧急情况下，人防工程的启用和使用由政府及各地人防办统一组织——**不要擅自占用或改造**。

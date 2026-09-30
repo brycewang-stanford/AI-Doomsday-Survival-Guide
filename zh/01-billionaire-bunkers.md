@@ -54,6 +54,17 @@
 - 领英联合创始人里德·霍夫曼对《纽约客》（2017）说，他估计超过一半的硅谷亿万富翁都有某种形式的"**末日保险**"——一处偏远房产、一个地堡、一套计划。
 - 媒体理论家道格拉斯·拉什科夫在《富人的生存》（*Survival of the Richest*，2022）中描述，他曾受邀为一群富有投资人提供咨询，他们最关心的问题是：**"大事件"发生后，我如何控制我自己的保镖？** 他们想到的办法包括给食物仓库装密码锁、给保镖戴电击项圈。拉什科夫的回答是：*现在*就好好对待他们，将来他们才会忠诚。
 
+### 最早的精英地堡：Greenbrier（1958–1992）
+
+最早的"富豪地堡"其实是政府建的。在美国西弗吉尼亚州豪华的 **Greenbrier 度假酒店**地下，美国政府秘密为整个**国会**修建了一座地堡（"希腊岛计划"）。当地人被告知那只是酒店扩建，酒店走廊里一面可折叠的假墙遮住了防爆门。它保密了约 30 年，直到 1992 年被《华盛顿邮报》曝光（《终极国会藏身所》），该计划随即终止。
+
+| | |
+|---|---|
+| ![遮挡 Greenbrier 地堡防爆门的假墙](../assets/photos/greenbrier-false-wall.jpg) | ![Vivos xPoint 样板地堡内的客厅](../assets/photos/vivos-xpoint-showroom.jpg) |
+| *Greenbrier：遮住防爆门的那面"墙"（Z22，CC BY-SA 4.0）* | *Vivos xPoint 样板地堡，南达科他州（VigilanteScout，CC BY-SA 4.0）* |
+
+**启示：** 保密和掩护说法（"只是酒店的一个侧翼"、"只是个地窖"）是老办法了。见[第 2 章](02-low-cost-shelter.md)和[第 7 章](07-privacy.md)。
+
 ### 商业化豪华地堡
 
 | 项目 | 地点 | 据报道的细节 |
@@ -118,5 +129,6 @@
 - 《奥塔哥每日时报》《新西兰先驱报》及 RNZ 关于蒂尔瓦纳卡度假屋的报道（2022 年被议会否决、上诉被环境法院驳回、2024 年据报放弃）
 - Survival Condo Project 与 Vivos 公开资料；《南达科他新闻观察》与美联社关于 Vivos xPoint 集体诉讼的报道（2025）
 - 《Forbes》，"Inside Aerie, the $300 million doomsday bunker"，2025 年 1 月
+- Ted Gup，"The Ultimate Congressional Hideaway"，《华盛顿邮报》，1992 年 5 月 31 日；原子遗产基金会，"Greenbrier Bunker"
 
 下一章：[第 2 章 —— 低成本地下掩体 →](02-low-cost-shelter.md)

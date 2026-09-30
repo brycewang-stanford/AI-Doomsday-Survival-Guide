@@ -36,8 +36,10 @@ FOOTER = "github.com/brycewang-stanford/AI-Doomsday-Survival-Guide · CC BY-SA 4
 
 # Navigation lines only make sense on GitHub; drop them from print.
 NAV = re.compile(r"^(\[← .*|Next: .*|下一章：.*|See also: .*|另见：.*)$")
-# Turn internal .md links into plain text; keep external links.
-MDLINK = re.compile(r"\[([^\]]+)\]\((?!https?://)[^)]*\)")
+# Turn internal .md links into plain text; keep external links and images.
+MDLINK = re.compile(r"(?<!!)\[([^\]]+)\]\((?!https?://)[^)]*\)")
+# Relative image paths break once the Markdown is copied to a temp dir.
+ASSET = re.compile(r"\((?:\.\./)+assets/")
 
 
 def chrome() -> str:
@@ -55,7 +57,8 @@ def chrome() -> str:
 
 def clean(md: str) -> str:
     lines = [l for l in md.splitlines() if not NAV.match(l.strip())]
-    return MDLINK.sub(r"\1", "\n".join(lines))
+    md = MDLINK.sub(r"\1", "\n".join(lines))
+    return ASSET.sub("(" + (ROOT / "assets").as_uri() + "/", md)
 
 
 def to_pdf(md_text: str, pdf: Path, lang: str, title: str, body_class: str = "", cover: str = ""):
@@ -75,7 +78,7 @@ def to_pdf(md_text: str, pdf: Path, lang: str, title: str, body_class: str = "",
         )
         subprocess.run(
             [chrome(), "--headless=new", "--disable-gpu", "--no-pdf-header-footer",
-             f"--print-to-pdf={pdf}", html.as_uri()],
+             "--allow-file-access-from-files", f"--print-to-pdf={pdf}", html.as_uri()],
             check=True, capture_output=True,
         )
     print("built", pdf.relative_to(ROOT))

@@ -36,3 +36,6 @@ ul.task-list { list-style: none; padding-left: .3rem; }
 ul.task-list li { margin: .1rem 0; }
 ul.task-list li p { margin: 0; }
 ul.task-list input { margin-right: .4rem; }
+img { max-width: 100%; height: auto; }
+td img { max-height: 70mm; object-fit: cover; }
+h2 + p > img, p > img:only-child { display: block; margin: .6rem auto; max-height: 90mm; }

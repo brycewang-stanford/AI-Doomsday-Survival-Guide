@@ -12,6 +12,37 @@ You don't have $270 million. This repo is about what **you** can do with a few h
 
 ---
 
+## 📰 The Bunker Files
+
+<p align="center"><img src="assets/news/bunkers-en.png" alt="Headlines about billionaire doomsday bunkers: Zuckerberg's Hawaii compound, Sutskever's AGI bunker, the $300M Aerie bunker, the Greenbrier congressional bunker, Vivos xPoint lawsuit, Thiel's abandoned New Zealand lodge" width="900"></p>
+
+Read the originals: [WIRED](https://www.wired.com/story/mark-zuckerberg-inside-hawaii-compound/) · [The Hollywood Reporter](https://www.hollywoodreporter.com/lifestyle/lifestyle-news/mark-zuckerberg-massive-bunker-hawaii-little-shelter-1236092305/) · [The New Yorker](https://www.newyorker.com/magazine/2017/01/30/doomsday-prep-for-the-super-rich) · [Futurism](https://futurism.com/the-byte/openai-scientists-agi-bunker) · [Forbes](https://www.forbes.com/sites/jimdobson/2025/01/13/inside-aerie-the-300-million-doomsday-bunker-with-opulent-suites-and-robotic-staff/) · [The Washington Post](https://www.washingtonpost.com/wp-srv/local/daily/july/25/brier1.htm) · [U.S. News / AP](https://www.usnews.com/news/best-states/north-dakota/articles/2025-10-23/survival-bunker-renters-sue-owner-of-former-south-dakota-munitions-bunkers-over-lease-amenities) · [RNZ](https://www.rnz.co.nz/news/environment/523397/us-billionaire-peter-thiel-abandons-lake-wanaka-lodge-build)
+
+### 📸 Inside the bunkers
+
+<table>
+<tr>
+<td width="50%"><img src="assets/photos/vivos-xpoint-showroom.jpg" alt="Living room and kitchen inside a Vivos xPoint showroom bunker"><br><sub><b>Vivos xPoint, South Dakota.</b> A former army munitions bunker fitted out as a home. Residents sued the landlord in 2025. <i>Photo: VigilanteScout, CC BY-SA 4.0</i></sub></td>
+<td width="50%"><img src="assets/photos/greenbrier-false-wall.jpg" alt="Folding false wall in a hotel corridor that hid the Greenbrier bunker's blast door"><br><sub><b>The Greenbrier, West Virginia.</b> This folding "wall" in a luxury hotel hid the blast door of a secret bunker for the US Congress, kept hidden for 30 years until 1992. <i>Photo: Z22, CC BY-SA 4.0</i></sub></td>
+</tr>
+<tr>
+<td><img src="assets/photos/vivos-xpoint-field.jpg" alt="Rows of grass-covered concrete bunkers on the South Dakota prairie"><br><sub><b>Vivos xPoint.</b> Some of the ~575 concrete bunkers spread across the prairie. <i>Photo: VigilanteScout, CC BY-SA 4.0</i></sub></td>
+<td><img src="assets/photos/greenbrier-bunker-entrance.jpg" alt="Thick concrete entrance to the Greenbrier bunker"><br><sub><b>The Greenbrier bunker entrance.</b> Note the thickness of the wall. <i>Photo: Z22, CC BY-SA 4.0</i></sub></td>
+</tr>
+<tr>
+<td><img src="assets/photos/diefenbunker-conference-room.jpg" alt="Conference room inside the Diefenbunker"><br><sub><b>The Diefenbunker, Canada.</b> A Cold War bunker built to keep the government running after a nuclear attack. Now a museum. <i>Photo: Z22, CC BY-SA 3.0</i></sub></td>
+<td><img src="assets/photos/fema-safe-room.jpg" alt="A FEMA expert opens the hatch of a small underground safe room while a TV crew films"><br><sub><b>The ordinary person's version.</b> A partially underground residential safe room in Moore, Oklahoma, shown to a TV crew in 2013. Prefab units start at a few thousand dollars: see <a href="en/02-low-cost-shelter.md">Chapter 2</a>. <i>Photo: FEMA, public domain</i></sub></td>
+</tr>
+</table>
+
+<p align="center"><img src="assets/news/world-en.png" alt="Headlines: EU urges 72-hour stockpiles, Sweden's crisis guide, Taiwan's civil defense handbook, Arup's $25M deepfake scam" width="900"></p>
+
+Read the originals: [CNN (EU)](https://www.cnn.com/2025/03/26/europe/european-union-stockpile-member-states-intl-latam) · [The Register](https://www.theregister.com/2024/11/18/sweden_updates_war_guide/) · [Taiwan News](https://www.taiwannews.com.tw/news/6202033) · [CNN (Arup)](https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk)
+
+<sub>Headline cards quote each headline verbatim in our own layout (not screenshots). Photo credits and licences: [assets/CREDITS.md](assets/CREDITS.md).</sub>
+
+---
+
 ## The Scenario
 
 This guide assumes a specific, deliberately extreme threat model (see [Chapter 0](en/00-threat-model.md)):

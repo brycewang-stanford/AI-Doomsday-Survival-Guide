@@ -54,6 +54,17 @@ According to Karen Hao's book *Empire of AI* (2025), OpenAI's then chief scienti
 - LinkedIn co-founder Reid Hoffman told *The New Yorker* (2017) that he guessed more than half of Silicon Valley billionaires had some form of **"apocalypse insurance"** — a remote property, a bunker, a plan.
 - Media theorist Douglas Rushkoff, in *Survival of the Richest* (2022), describes being paid to advise a group of wealthy investors whose main question was: **after "the Event", how do I keep control of my own security guards?** Ideas included combination locks on food stores and shock collars. Rushkoff's answer: treat them well *now*, so they're loyal later.
 
+### The original elite bunker: the Greenbrier (1958–1992)
+
+Governments built the first "billionaire bunkers". Under the luxury **Greenbrier resort** in West Virginia, the US government secretly built a bunker for the entire **Congress** ("Project Greek Island"). Locals were told it was a hotel extension, and a folding false wall in a hotel corridor hid the blast door. It stayed secret for about 30 years, until *The Washington Post* exposed it in 1992 ("The Ultimate Congressional Hideaway"), and the program ended soon after.
+
+| | |
+|---|---|
+| ![False wall hiding the Greenbrier bunker's blast door](../assets/photos/greenbrier-false-wall.jpg) | ![Living room inside a Vivos xPoint showroom bunker](../assets/photos/vivos-xpoint-showroom.jpg) |
+| *Greenbrier: the "wall" that hid a blast door (Z22, CC BY-SA 4.0)* | *Vivos xPoint showroom bunker, South Dakota (VigilanteScout, CC BY-SA 4.0)* |
+
+**Lesson:** secrecy and a cover story ("it's just a hotel wing", "it's just a root cellar") are old tricks. See [Chapter 2](02-low-cost-shelter.md) and [Chapter 7](07-privacy.md).
+
 ### Commercial luxury bunkers
 
 | Project | Location | Reported details |
@@ -118,5 +129,6 @@ A bunker is a tool for the *first weeks* of chaos. It is not a plan for living u
 - *Otago Daily Times*, *NZ Herald* and RNZ reporting on Peter Thiel's Wānaka lodge (council refusal 2022, Environment Court appeal dismissed, project reportedly abandoned 2024).
 - Survival Condo Project and Vivos public materials; *South Dakota News Watch* and AP reporting on the Vivos xPoint class action (2025).
 - *Forbes*, "Inside Aerie, the $300 million doomsday bunker," Jan 2025.
+- Ted Gup, "The Ultimate Congressional Hideaway," *The Washington Post*, 31 May 1992; Atomic Heritage Foundation, "Greenbrier Bunker."
 
 Next: [Chapter 2 — Low-Cost Underground Shelter →](02-low-cost-shelter.md)

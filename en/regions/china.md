@@ -22,6 +22,12 @@ Most of this guide was written with a Western suburban house in mind. Most peopl
 
 ### 2.1 Civil air-defence works (人防工程)
 
+| | |
+|---|---|
+| ![Beijing Underground City entrance](../../assets/photos/beijing-underground-city-entrance.jpg) | ![Beijing air-raid tunnel](../../assets/photos/beijing-air-raid-tunnel.jpg) |
+
+*Beijing's Underground City (地下城): an air-raid tunnel network dug in the 1970s, an early chapter of China's civil-defence system. Left: entrance (Well-rested, CC BY-SA 3.0). Right: tunnel, 1991 (Gary Todd, CC0).*
+
 - Under the **Civil Air Defence Law of the PRC** (人民防空法, 1996, amended 2009), many new residential developments must include a **civil air-defence basement** (防空地下室).
 - In peacetime most are used as **underground car parks or storage** (平战结合). You have probably parked in one without knowing it.
 - In an emergency, their activation and use is organized by the government and local civil-defence offices (人防办) — **don't try to occupy or modify them yourself**.
