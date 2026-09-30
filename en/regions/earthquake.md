@@ -29,7 +29,7 @@ China's official guidance uses the same approach: **伏地、遮挡、手抓牢*
 
 ## 3. Earthquake early warning
 
-- Many regions now have **earthquake early-warning systems** that give seconds to tens of seconds of warning: Japan (JMA), the US West Coast (ShakeAlert), Mexico (SASMEX), Taiwan, and mainland China (national early-warning network and built-in phone alerts from several manufacturers).
+- Many regions now have **earthquake early-warning systems** that give seconds to tens of seconds of warning: Japan (JMA), the US West Coast (ShakeAlert), Mexico (SASMEX), Taiwan, and mainland China. China's national network — the world's largest — passed final acceptance in July 2024 with 15,899 stations, gives **second-level warnings** in five key regions (North China, the southeast coast, the North–South Seismic Belt, the central Tianshan in Xinjiang, and Lhasa), and by 2026 reached **400+ million people**, with **228+ million phone users** receiving alerts. Several phone makers also have built-in alerts.
 - Seconds are enough to Drop, Cover, Hold On, step away from windows, or stop a surgical procedure or a train.
 - In the AI scenario these are networked systems — **useful but not guaranteed**. Your reflexes are the backup.
 

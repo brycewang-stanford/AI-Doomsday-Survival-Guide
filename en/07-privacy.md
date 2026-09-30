@@ -22,7 +22,7 @@ A superintelligent system that sees everything connected doesn't need to search 
 **Phone**
 - Create **phone-free time and phone-free places** — especially your shelter and group meetings
 - Turn off location history, ad ID, unused apps; review permissions
-- Know how to fully power down or use a **Faraday pouch** — test that it blocks signal
+- Know how to fully power down or use a **Faraday pouch**. Don't trust the label: forensic testing has found that many consumer pouches **leak signal** (especially Wi-Fi and Bluetooth), that results vary by phone model, and that shielding **wears out** at folds and seams. Test yours regularly: call the phone, and also check that Wi-Fi and Bluetooth devices can't find it
 - Keep a simple feature phone as a backup
 
 **Home**

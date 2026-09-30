@@ -6,6 +6,8 @@
 
 Billionaires are already preparing. Mark Zuckerberg's Kauai compound reportedly includes a ~5,000 sq ft underground shelter. Sam Altman told *The New Yorker* he keeps guns, gold, potassium iodide and gas masks, plus land he can fly to. OpenAI co-founder Ilya Sutskever reportedly told colleagues, *"We're definitely going to build a bunker before we release AGI."*
 
+It's not only billionaires. **Governments are now telling ordinary households to prepare**: Sweden mailed a crisis booklet to ~5 million homes in 2024, the EU asked every citizen to be ready for 72 hours in 2025, and Taiwan's 2025 handbook warns about deepfake videos and ATMs failing in cyberattacks. Researchers have a name for the slow version of the scenario: [**gradual disempowerment**](en/resources.md).
+
 You don't have $270 million. This repo is about what **you** can do with a few hundred to a few thousand dollars, some skills, and the people around you.
 
 ---
@@ -39,6 +41,8 @@ The goal is not heroics. The goal is to **stay alive, stay free in mind, stay co
 | 8 | [Medicine Without the System](en/08-medical.md) | How do you handle injury and illness offline? |
 | 9 | [Community: Your Real Bunker](en/09-community.md) | Why the group matters more than the concrete |
 | 10 | [Surviving the Human Zoo](en/10-human-zoo.md) | How do you stay human in comfortable captivity? |
+| 11 | [Real-World Rehearsals](en/11-real-world-rehearsals.md) | What did the Iberian blackout, CrowdStrike, Zhengzhou and a $25M deepfake teach us? |
+| 📚 | [Resources](en/resources.md) | Official government handbooks, research, offline tools |
 | ✅ | [Checklists](en/checklists.md) | 72 hours / 2 weeks / 90 days / 1 year |
 | 🪪 | [Quick Reference Card](en/quick-card.md) | Everything essential on one printable page |
 
@@ -73,7 +77,7 @@ This is **speculative preparedness writing**, not a prediction. Nothing here is 
 
 ## Contributing
 
-Pull requests welcome — especially low-cost, tested, region-specific advice, and translations. See [CONTRIBUTING.md](CONTRIBUTING.md).
+See what changed in the [CHANGELOG](CHANGELOG.md). Pull requests welcome — especially low-cost, tested, region-specific advice, and translations. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 

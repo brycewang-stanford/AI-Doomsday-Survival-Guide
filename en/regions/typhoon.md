@@ -11,7 +11,7 @@ For south and east China, Hong Kong, Taiwan, Japan, the Philippines, Southeast A
 [Chapter 2](../02-low-cost-shelter.md) recommends getting below ground. **In storm-surge and flood zones, that can kill you.**
 
 - Basements, underground car parks, metro stations and cellars **flood first and fastest**.
-- Underground car parks have caused deaths in flash floods in several Asian cities: water enters faster than people can climb out.
+- Underground car parks, metro tunnels and road tunnels have caused deaths in flash floods in several Asian cities: water enters faster than people can climb out. In **Zhengzhou (July 2021)**, 14 people died in a flooded metro tunnel and 6 in a flooded road tunnel while the systems were still running normally ([Ch. 11](../11-real-world-rehearsals.md)).
 - **Rule of thumb: run from water, hide from wind.** If you're in a surge or flood zone, evacuate to higher ground. If you're outside it, shelter in a sturdy building in an interior room above flood level.
 
 Before building any below-ground shelter in these regions, check official **flood and storm-surge maps** for your address.

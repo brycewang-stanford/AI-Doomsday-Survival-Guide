@@ -32,14 +32,14 @@ Everything else is comfort.
 
 ## 2.3 Cost tiers
 
-### Tier 0 — $0–$200: Use what you already have
+### Tier 0 — \$0–\$200: Use what you already have
 
 - **Pick your best room.** Basement > interior ground-floor room with no windows > centre of an apartment building on a middle floor (the floors above and below are your "earth").
 - **Add mass** to walls and windows: bookshelves full of books, filled water containers, bags of soil or sand, mattresses.
 - **Prepare the room** as your shelter: water, food, bucket toilet, lights, radio, first aid (see [Checklists](checklists.md)).
 - **Free manual:** *Nuclear War Survival Skills* by Cresson Kearny (Oak Ridge National Laboratory, 1979/1987) is in the public domain. It contains tested plans for expedient shelters built by untrained families in 48 hours, and the **Kearny Air Pump** (KAP) — a homemade ventilation device made from wood, plastic sheeting and string. Download it and **print it**.
 
-### Tier 1 — $200–$2,000: Basement retrofit
+### Tier 1 — \$200–\$2,000: Basement retrofit
 
 The best value option for most homeowners.
 
@@ -51,7 +51,7 @@ The best value option for most homeowners.
 - **Lighting:** LED lanterns + rechargeable batteries + a small solar panel feeding a power bank. **No candles or fuel lamps in a sealed room.**
 - **Sanitation:** two buckets with lids + bags + sawdust or cat litter. Sanitation failures kill more people in shelters than hunger.
 
-### Tier 2 — $2,000–$15,000: Root cellar or earth-bermed room
+### Tier 2 — \$2,000–\$15,000: Root cellar or earth-bermed room
 
 A root cellar is a **shelter that pays rent**: it stores food all year, and it is an unremarkable structure that doesn't attract attention.
 
@@ -61,7 +61,7 @@ A root cellar is a **shelter that pays rent**: it stores food all year, and it i
 - **Hire an engineer for the roof.** Wet soil weighs ~1,900–2,000 kg/m³. One metre of earth on a 3 m × 3 m roof is ~17 tonnes. Undersized timber will fail.
 - **Drainage first:** gravel bed, perforated drain pipe, membrane on the outside walls, slope the ground away.
 
-### Tier 3 — $15,000–$60,000: Prefab units
+### Tier 3 — \$15,000–\$60,000: Prefab units
 
 - **Prefab tornado/storm shelters** (steel or fibreglass, built to FEMA P-361 / ICC 500 standards): in-ground or in-garage units start at a few thousand dollars and are the cheapest *engineered* option.
 - **Corrugated steel pipe** (culvert) shelters: large-diameter pipe buried on its side, commercially fitted with ends, hatch and vents. Round shapes carry soil load well.

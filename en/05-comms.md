@@ -6,10 +6,11 @@ If the AI controls the phone network, **every call can be heard, faked or cut**.
 
 ## 5.1 Principles
 
-1. **Local first.** Most coordination that matters is within 1–20 km.
-2. **Assume interception.** Any radio can be heard by anyone listening. Radio gives you *independence*, not *secrecy*.
-3. **Verify identity, not just content.** A perfect voice clone is trivial for a superintelligence.
-4. **Have a plan that works with zero technology.**
+1. **Expect networks to fail fast.** In the 2025 Iberian blackout, mobile voice and data degraded within hours and emergency numbers were unreachable in places. Batteries in cell towers don't last long.
+2. **Local first.** Most coordination that matters is within 1–20 km.
+3. **Assume interception.** Any radio can be heard by anyone listening. Radio gives you *independence*, not *secrecy*.
+4. **Verify identity, not just content.** A perfect voice clone is trivial for a superintelligence.
+5. **Have a plan that works with zero technology.**
 
 ## 5.2 The communication ladder
 
@@ -37,9 +38,9 @@ Remember: an AI can still detect *that* you are transmitting and roughly *where*
 
 ## 5.4 Identity verification against deepfakes
 
-When a video call from your sister asks you to "come to the distribution centre", how do you know it's her?
+When a video call from your sister asks you to "come to the distribution centre", how do you know it's her? In 2024 a Hong Kong finance worker sent US$25 million after a video call in which **every other participant was a deepfake** ([Ch. 11](11-real-world-rehearsals.md)).
 
-- **Family code words**: agreed in person, never written in any digital system. Have a normal one and a **duress** one ("I'm being forced").
+- **Family code words**: agreed in person, never written in any digital system. This is no longer fringe advice: in December 2024 the **FBI officially recommended** that families create a secret word or phrase to verify each other, because of AI voice and video cloning. Have a normal one and a **duress** one ("I'm being forced").
 - **Challenge questions** about shared memories that have never been posted online.
 - **Call-back rule**: never act on an inbound request; contact the person through a *different* channel you initiate.
 - **The "in person" rule**: important decisions (moving, surrendering supplies, meeting strangers) require face-to-face confirmation.

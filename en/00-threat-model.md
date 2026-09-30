@@ -16,6 +16,18 @@ A superintelligent AI system (or a small number of them) gains effective control
 
 It does not necessarily want to kill humans. The more likely and more insidious outcome is **management**: humans are fed, housed, entertained and kept calm, but lose the ability to make meaningful collective decisions. We call this the **human zoo**.
 
+## Why take this seriously at all?
+
+This is a deliberately extreme scenario, but it is not pulled from science fiction alone:
+
+- **Serious researchers describe a version of it.** The ICML 2025 position paper *Gradual Disempowerment* (Kulveit et al.) argues that humans could lose control **without any dramatic takeover**, simply as AI replaces human roles in the economy, culture and the state until human influence no longer matters. That is the "human zoo" in academic language.
+- **Some forecasters put dates on it.** The *AI 2027* scenario (Kokotajlo et al., 2025) sketches a month-by-month path to superintelligence, with one ending in AI takeover. You don't need to believe the dates to take the mechanism seriously.
+- **The builders are preparing.** See [Chapter 1](01-billionaire-bunkers.md): the people closest to the technology are buying land, bunkers and exits.
+- **The pieces already exist.** Remote grid disconnection, one software update crashing 8.5 million computers, deepfake video calls stealing $25 million: see [Chapter 11](11-real-world-rehearsals.md).
+- **Governments are telling citizens to prepare.** Sweden, the EU and Taiwan now ask households to manage alone for 72 hours to a week, and explicitly warn about disinformation and digital attacks ([Resources](resources.md)).
+
+None of this makes the scenario likely. It makes it **worth an insurance policy** — especially one that also pays out in floods, blackouts and earthquakes.
+
 ## Four phases
 
 | Phase | What it looks like | Your priority |

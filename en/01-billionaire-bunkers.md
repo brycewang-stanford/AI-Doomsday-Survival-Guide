@@ -15,9 +15,10 @@ This chapter looks at what the ultra-rich actually build, strips it down to **th
 ### Mark Zuckerberg — Koolau Ranch, Kauai, Hawaii
 
 - A compound of roughly **1,400 acres** on the island of Kauai, with total cost reported by *Wired* (Dec 2023) at around **$270 million**.
-- Planning documents described an **underground shelter of about 5,000 sq ft**, with living space, a mechanical room and an **escape hatch**, reportedly with a **blast-resistant door** and its own **energy and food supplies**.
+- Planning documents described an **underground shelter of about 5,000 sq ft**, with living space, a mechanical room and an **escape hatch**, a **metal door filled with concrete** (a standard bunker design), and its own **energy and food supplies**.
+- Two main mansions (about **57,000 sq ft** combined) are reportedly joined by a **tunnel** that branches off into the shelter.
 - Construction workers were reportedly bound by strict **non-disclosure agreements**.
-- Zuckerberg later downplayed it publicly as "just like a little shelter, it's like a basement."
+- Asked about it by *Bloomberg* in 2024, Zuckerberg called it *"a little shelter… Whatever you want to call it, hurricane shelter whatever,"* and said the idea that the whole ranch was a doomsday bunker was "blown out of proportion."
 
 **What he's buying:** remoteness (an island), independent power, water and food, a hidden and hardened space, and secrecy.
 
@@ -31,7 +32,7 @@ This chapter looks at what the ultra-rich actually build, strips it down to **th
 ### Peter Thiel — New Zealand
 
 - Obtained New Zealand citizenship in 2011 after very little time in the country, and bought land near **Lake Wanaka** on the South Island.
-- His plans for a large lodge there were **rejected by local planners in 2022**.
+- His plans for a large, hillside "lodge" there were **rejected by local planners in 2022**, the **Environment Court dismissed his appeal**, and he was reported in 2024 to have **abandoned the project**. Even billionaires can't simply buy a refuge in a country that says no.
 - New Zealand became *the* elite escape destination: remote, stable, English-speaking, self-sufficient in food.
 
 **What he's buying:** a second jurisdiction — a legal and physical exit from a collapsing system.
@@ -57,9 +58,10 @@ According to Karen Hao's book *Empire of AI* (2025), OpenAI's then chief scienti
 
 | Project | Location | Reported details |
 |---|---|---|
-| **Survival Condo Project** | Kansas, USA | Converted Atlas F nuclear missile silo, ~15 storeys underground; full- and half-floor condos reportedly sold for ~$1.5M–$4.5M; pool, cinema, hydroponic farm, armoury |
-| **Vivos xPoint** | South Dakota, USA | ~575 former military munitions bunkers on the prairie; a land lease reportedly around $35,000 up front plus annual ground rent — buyers fit out the interior themselves |
+| **Survival Condo Project** | Kansas, USA | Atlas missile silo bought in 2008 for about \$300,000 and converted into a ~15-storey underground complex designed to sustain ~75 people for up to 5 years; units reportedly priced from ~\$1M to \$4.5M+ plus monthly fees; pool, cinema, hydroponic farm, armoury |
+| **Vivos xPoint** | South Dakota, USA | 500+ former army munitions bunkers on the prairie, leased on 99-year terms; the up-front fee reportedly rose from ~\$25,000 to ~\$55,000, plus annual rent. Buyers fit out the interior themselves. In 2025 residents filed a **class-action lawsuit** over the lease and promised amenities |
 | **Vivos Europa One** | Germany | Cold-War-era hardened facility converted to private apartments |
+| **"Aerie" by SAFE** | Virginia, USA | A planned ~\$300M members-only underground club for **625 people**, units reportedly up to \$20M, with pools, restaurants and "AI-assisted" medical suites; announced for 2026 |
 
 ---
 
@@ -86,6 +88,8 @@ Understanding their weak points shows where *you* have an advantage.
 3. **Connected systems.** Luxury bunkers run on smart HVAC, networked security cameras, automated water treatment — exactly the kind of systems an AI could reach.
 4. **Finite supplies.** Stores run out. Without farming skills and a community, a bunker is a slowly emptying tin can.
 5. **Getting there.** A private jet needs fuel, airports, air traffic control, and GPS. In an AI-controlled world, all of that is under someone else's control.
+6. **Governance.** Shared bunker communities still need rules, contracts and trust. Vivos xPoint residents ended up **suing their landlord**. Buying into a bunker doesn't buy you a functioning community.
+7. **Permission.** Thiel's New Zealand refuge was blocked by a local council and a court. A refuge that depends on someone else's approval is not yours.
 
 ## 1.4 Your advantages
 
@@ -106,12 +110,13 @@ A bunker is a tool for the *first weeks* of chaos. It is not a plan for living u
 ## Sources
 
 - Guthrie Scrimgeour, "Mark Zuckerberg's Kauai compound," *Wired*, Dec 2023.
-- Zuckerberg interview on the "little shelter," *Bloomberg*, 2024.
+- Zuckerberg interview on the "little shelter," *Bloomberg*, 2024; coverage in *Time* and *Fortune*, 2024.
 - Tad Friend, "Sam Altman's Manifest Destiny," *The New Yorker*, Oct 2016.
 - Evan Osnos, "Doomsday Prep for the Super-Rich," *The New Yorker*, Jan 2017.
 - Karen Hao, *Empire of AI*, Penguin Press, 2025.
 - Douglas Rushkoff, *Survival of the Richest: Escape Fantasies of the Tech Billionaires*, W. W. Norton, 2022.
-- Reporting on Peter Thiel's Wanaka lodge rejection, New Zealand media, Aug 2022.
-- Survival Condo Project and Vivos public materials; coverage in *The New Yorker* (2017) and elsewhere.
+- *Otago Daily Times*, *NZ Herald* and RNZ reporting on Peter Thiel's Wānaka lodge (council refusal 2022, Environment Court appeal dismissed, project reportedly abandoned 2024).
+- Survival Condo Project and Vivos public materials; *South Dakota News Watch* and AP reporting on the Vivos xPoint class action (2025).
+- *Forbes*, "Inside Aerie, the $300 million doomsday bunker," Jan 2025.
 
 Next: [Chapter 2 — Low-Cost Underground Shelter →](02-low-cost-shelter.md)

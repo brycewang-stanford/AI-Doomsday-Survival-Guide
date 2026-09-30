@@ -2,7 +2,7 @@
 
 [← Back to README](../README.md) | [中文](../zh/04-power.md)
 
-In an AI-run world, the grid may not fail — it may be **selectively switched off**. Smart meters make it possible to cut power to a single house. Your goal: **keep the essentials running with zero grid connection.**
+In an AI-run world, the grid may not fail — it may be **selectively switched off**. Smart meters make it possible to cut power to a single house: many electric smart meters include a **remote connect/disconnect switch**, which utilities already use to disconnect non-paying customers without sending a truck. Your goal: **keep the essentials running with zero grid connection.**
 
 ## 4.1 Decide what actually needs power
 
@@ -37,7 +37,16 @@ This matters more than capacity:
 - **Store spares**: fuses, cables, a multimeter, a second charge controller.
 - **EMP/Faraday storage** for spare electronics: a sealed metal ammo can or galvanized trash can with a lid, items insulated from the metal with cardboard. Test with a phone inside — if it rings, it's not sealed.
 
-## 4.4 Non-electric energy
+## 4.4 Powered medical equipment comes first
+
+In the 2025 Iberian blackout, people died when home **oxygen concentrators and ventilators** lost power ([Ch. 11](11-real-world-rehearsals.md)). If anyone in your household depends on powered medical equipment:
+
+- Size a battery (LiFePO₄ power station) to run it for **at least 24–72 hours**, and test it
+- Ask the supplier about non-powered backups (e.g., oxygen cylinders)
+- Register with your utility's medical priority list where one exists
+- Make sure neighbours know, so someone checks on them
+
+## 4.5 Non-electric energy
 
 The most resilient energy doesn't need electricity at all:
 
@@ -46,9 +55,9 @@ The most resilient energy doesn't need electricity at all:
 - **Light:** daylight schedules; go to bed early
 - **Mechanical:** hand tools, bicycles, hand-crank grain mills, manual washing (plunger + bucket)
 
-## 4.5 Fuel cautions
+## 4.6 Fuel cautions
 
-- Generators are loud, thermal-visible, fuel-hungry, and a leading cause of post-disaster **carbon monoxide deaths**. Run them only outdoors, >6 m (20 ft) from windows and doors.
+- Generators are loud, thermal-visible, fuel-hungry, and a leading cause of post-disaster **carbon monoxide deaths** — including three members of one family in Spain during the 2025 blackout, and 19 people in the 2021 Texas storm ([Ch. 11](11-real-world-rehearsals.md)). Run them only outdoors, >6 m (20 ft) from windows and doors.
 - Stored gasoline degrades in months without stabilizer; propane stores indefinitely.
 
 Next: [Chapter 5 — Off-Grid Communications →](05-comms.md)

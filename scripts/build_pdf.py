@@ -21,8 +21,8 @@ CHAPTERS = [
     "00-threat-model.md", "01-billionaire-bunkers.md", "02-low-cost-shelter.md",
     "03-water-food.md", "04-power.md", "05-comms.md", "06-information.md",
     "07-privacy.md", "08-medical.md", "09-community.md", "10-human-zoo.md",
-    "checklists.md", "regions/china.md", "regions/typhoon.md", "regions/earthquake.md",
-    "quick-card.md",
+    "11-real-world-rehearsals.md", "checklists.md", "regions/china.md", "regions/typhoon.md", "regions/earthquake.md",
+    "resources.md", "quick-card.md",
 ]
 
 COVER = {

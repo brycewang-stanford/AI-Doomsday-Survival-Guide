@@ -25,6 +25,7 @@ Most of this guide was written with a Western suburban house in mind. Most peopl
 - Under the **Civil Air Defence Law of the PRC** (人民防空法, 1996, amended 2009), many new residential developments must include a **civil air-defence basement** (防空地下室).
 - In peacetime most are used as **underground car parks or storage** (平战结合). You have probably parked in one without knowing it.
 - In an emergency, their activation and use is organized by the government and local civil-defence offices (人防办) — **don't try to occupy or modify them yourself**.
+- A revised **National Defense Mobilization Law** (国防动员法) was passed on 28 August 2026 and takes effect on **1 October 2026**. Watch for local guidance on how it affects civil-defence arrangements.
 - **What you can do now:**
   - Ask your property management (物业) whether your compound has a 人防 basement and where the entrances are.
   - Look for the **civil-defence signage** (人防标识) in car parks.
@@ -39,6 +40,8 @@ Most of this guide was written with a Western suburban house in mind. Most peopl
 - **Elevators**: assume they fail when the power does. Anyone who cannot use stairs needs a plan (see §6).
 - **Water pressure**: high-rise buildings depend on **electric booster pumps** (二次供水). When power goes, taps on upper floors run dry almost immediately — **store water before you need it**.
 
+> ⚠️ **Floods:** underground car parks and civil-defence basements are exactly the spaces that flood first. In Zhengzhou in July 2021, 14 people died in a flooded metro tunnel and 6 in a flooded road tunnel ([Ch. 11](../11-real-world-rehearsals.md)). In heavy rain, **go up, not down**.
+
 ### 2.3 Rural and hometown options (Tier 2)
 
 - **Vegetable cellars** (菜窖 / 红薯窖) are traditional across north China — a ready-made root cellar with a centuries-long track record.
@@ -52,7 +55,10 @@ Most of this guide was written with a Western suburban house in mind. Most peopl
 - **Staples**: rice, dried noodles (挂面), flour, dried beans, **compressed biscuits (压缩饼干)**, canned meat, dried mushrooms, pickled vegetables (咸菜/榨菜), salt, sugar, cooking oil.
 - **Self-heating meals (自热食品)**: convenient, but the heating packs release heat and hydrogen gas — use in a **ventilated** space, away from flames, and never in a closed shelter.
 - **Balcony gardening**: greens, spring onions, chillies and sprouts grow well in planters; start now.
-- The Ministry of Emergency Management (应急管理部) has published a **basic household emergency supplies checklist** (家庭应急物资储备建议清单). Use it as your official baseline and this guide as the extension.
+- **Official baselines:**
+  - The Ministry of Emergency Management's **national basic household checklist** (全国基础版家庭应急物资储备建议清单, Nov 2020) lists 11 items: drinking water (**≥ 3 L per person, for 3 days**), compact high-calorie food, fire extinguisher and fire blanket, fire-escape respirator, flashlight, multi-tool, radio, whistle, wound-care supplies, disinfectant wipes and medical masks.
+  - The National Disaster Reduction Committee's 2024 guidance expands this into five categories (food, daily necessities, tools, medicine, documents), with a **basic version (16 items)** and an **extended version (31 items)**.
+  - Many provinces and cities publish their own local versions. Use the official lists as your floor and this guide as the extension — the official lists are sized for **3 days**; this guide targets **2 weeks**.
 
 ## 4. Power
 
@@ -64,11 +70,13 @@ Most of this guide was written with a Western suburban house in mind. Most peopl
 
 | Tool | Status in China |
 |---|---|
-| **Public-use walkie-talkies (公众对讲机)** | License-free handheld radios on the 409 MHz public band, low power. Buy compliant models (they carry the SRRC type-approval code). Best starting option for families and compounds. |
+| **Public-use walkie-talkies (公众对讲机)** | Under the national radio office's notice 国无办〔2025〕1号 (in force since 1 March 2025): the **409.75–409.99 MHz** band, 20 channels (12.5 kHz) or 40 channels (6.25 kHz), handheld power **≤ 0.5 W**, **no frequency licence and no station licence needed**. Devices must carry SRRC type approval and be clearly marked **"公众对讲机"** on the body. Best starting option for families and compounds. |
+| **Shared walkie-talkies (共用对讲机)** | New category under the same notice: **406.21–407.70 MHz**, higher rated power and longer range. No frequency licence, but you **must apply for a station licence** (a simplified procedure) from the provincial radio administration. Devices are marked **"共用对讲机"**. |
 | **Amateur radio (业余无线电)** | Requires an amateur radio operator certificate (操作证书, via exam) and a station licence from the local radio administration (无线电管理机构). Join a local club. |
-| **LoRa / Meshtastic** | Only use devices and frequency settings that comply with China's rules for short-range micro-power devices. Check current regulations before use. |
+| **LoRa / Meshtastic** | Meshtastic's China setting is **CN 470–510 MHz**. Under China's micro-power short-range device rules, networked use in this band is expected to stay small-scale (within buildings, residential compounds, villages). Use only type-approved devices and the correct region setting, and check current regulations before use. |
 | **Broadcast radio** | A hand-crank AM/FM/shortwave receiver; the national emergency broadcast system (国家应急广播) and local stations. |
-| **Official warnings** | Government early-warning SMS are sent from **12379**. Treat them as one input to cross-check, not the only one. |
+| **Official warnings** | **12379** is the national emergency early-warning number (approved 2013, run by the National Early Warning Center under the China Meteorological Administration). Warning SMS are sent free through all three carriers. Treat them as one input to cross-check, not the only one. |
+| **Earthquake early warning** | The national earthquake early-warning network passed final acceptance in July 2024 (15,899 stations). By 2026 public early-warning services reached **400+ million people**, including **228+ million phone users**. See [Earthquake Zones](earthquake.md). |
 
 Emergency numbers: **110** police · **119** fire · **120** ambulance · **122** traffic accidents.
 
@@ -92,7 +100,7 @@ Emergency numbers: **110** police · **119** fire · **120** ambulance · **122*
 - [ ] 2 weeks of food: rice, 挂面, 压缩饼干, canned food, oil, salt
 - [ ] ¥1,000–3,000 in small notes
 - [ ] Portable power station + solar panel, kept offline
-- [ ] Public-band walkie-talkies for the family
+- [ ] Public-band walkie-talkies for the family (marked "公众对讲机", 409 MHz)
 - [ ] Hand-crank radio
 - [ ] Physical keys for every smart lock and gate
 - [ ] Paper copies of 身份证, 户口本, medical records

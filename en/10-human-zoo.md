@@ -18,6 +18,10 @@ A zoo animal is safe, fed and healthy. It just isn't free, and after a few gener
 
 None of this needs violence. It just needs us to stop practising being human.
 
+There is early evidence for the mechanism. In a 2025 study by OpenAI and the MIT Media Lab (tens of millions of conversations plus a four-week randomized trial with ~1,000 people), **heavier daily chatbot use correlated with more loneliness, more emotional dependence and less socializing** with real people. Most users showed no problem, and causation is unclear. But the direction is exactly the one this chapter warns about.
+
+Researchers call the society-wide version **"gradual disempowerment"** (Kulveit et al., ICML 2025): as AI replaces human roles in the economy, culture and the state, those systems stop needing — or responding to — human participation.
+
 ## 10.2 The resistance is keeping capacity
 
 You don't beat the enclosure by fighting it. You beat it by **keeping the ability to live outside it**:
@@ -54,4 +58,4 @@ Systems change. Empires, regimes and technologies that seemed permanent have all
 
 Be one of them. Help others be one too.
 
-Next: [Checklists →](checklists.md)
+Next: [Chapter 11 — Real-World Rehearsals →](11-real-world-rehearsals.md)

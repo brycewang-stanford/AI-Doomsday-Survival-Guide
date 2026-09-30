@@ -12,6 +12,18 @@ If an AI runs logistics, **food becomes the most powerful lever of control**. An
 | Drinking + basic hygiene | **~4 L (1 US gal) per person per day** |
 | Pets | ~30 ml per kg of body weight per day |
 
+**What governments recommend**
+
+| Source | Water | How long |
+|---|---|---|
+| China, Ministry of Emergency Management (2020) | ≥ 3 L per person per day | 3 days |
+| EU Preparedness Union Strategy (2025) | — | ≥ 72 hours |
+| Sweden, MSB (2024) | ≥ 3 L per person per day | 1 week |
+| Taiwan (2025) | — | 1 week (up from 3 days) |
+| US, Ready.gov / FEMA | 1 gal (~3.8 L) per person per day | several days; aim for 2 weeks |
+
+This guide's target — **4 L per person per day, 2 weeks** — sits at the top of that range, because in an AI-control scenario help may not come.
+
 **Store**
 - Food-grade containers only; out of sunlight; label with date
 - Treated municipal water keeps ~6 months; rotate or re-treat

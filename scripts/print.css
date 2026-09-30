@@ -32,3 +32,7 @@ body.card td { height: 1.35em; }
 body.card li { margin: 0; }
 body.card ul, body.card ol { margin: .2rem 0; }
 body.card h1 + p { margin-bottom: .2rem; }
+ul.task-list { list-style: none; padding-left: .3rem; }
+ul.task-list li { margin: .1rem 0; }
+ul.task-list li p { margin: 0; }
+ul.task-list input { margin-right: .4rem; }

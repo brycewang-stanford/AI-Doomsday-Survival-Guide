@@ -30,6 +30,8 @@ Print these. Tick them with a pen.
 - [ ] **Money**: small-denomination cash
 - [ ] **Paper**: printed guide, maps, documents copies
 - [ ] **Safety**: CO alarm, CO₂ meter, fire extinguisher
+- [ ] **Medical power**: battery backup (24–72 h) for any oxygen concentrator, CPAP or other powered medical device
+- [ ] **Pre-commitments** written on paper: what your household will never believe or do without face-to-face confirmation ([Ch. 6](06-information.md))
 
 ## 📦 90 Days — Deepen
 
@@ -40,7 +42,8 @@ Print these. Tick them with a pen.
 - [ ] First aid + CPR course completed
 - [ ] Group of 3–5 households formed; skills map on paper
 - [ ] Neighbourhood mesh or radio net tested weekly
-- [ ] Offline library: Kiwix, offline maps, printed manuals
+- [ ] Offline library: Kiwix, offline maps, printed manuals — and at least one official government handbook printed ([Resources](resources.md))
+- [ ] Faraday pouch tested (cellular, Wi-Fi and Bluetooth)
 - [ ] Garden started; open-pollinated seed stock
 
 ## 🌱 1 Year — Resilience
